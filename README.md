@@ -1,5 +1,5 @@
 # bear_voila
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/bear_voila/master?urlpath=%2Fvoila%2Frender%2Fbear_classifier.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Avagenzo/bear_voila/HEAD?urlpath=voila%2Frender%2FBear_Classifier.ipynb)
 
 Demo bear classifier with fastai and Voila
